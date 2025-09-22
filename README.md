@@ -40,3 +40,11 @@ This project is designed to be run in a Google Colab environment due to its dire
 * **pandas:** For data loading, manipulation, and analysis.  
 * **matplotlib:** For creating the data visualizations.  
 * **google.colab:** For mounting Google Drive to access the dataset.
+
+## **Output**
+
+![Alt text](https://github.com/yeswanthchelluboina72/COVID-19-Trade-Impact-Data-Analysis-using-Python/blob/main/images/overall_trade_trend.png?raw=true)
+![Alt text](https://github.com/yeswanthchelluboina72/COVID-19-Trade-Impact-Data-Analysis-using-Python/blob/main/images/exports_vs_imports.png?raw=true)
+![Alt text](https://github.com/yeswanthchelluboina72/COVID-19-Trade-Impact-Data-Analysis-using-Python/blob/main/images/top_commodities_affected.png?raw=true)
+![Alt text](https://github.com/yeswanthchelluboina72/COVID-19-Trade-Impact-Data-Analysis-using-Python/blob/main/images/transport_mode_analysis.png?raw=true)
+![Alt text](https://github.com/yeswanthchelluboina72/COVID-19-Trade-Impact-Data-Analysis-using-Python/blob/main/images/country_analysis.png?raw=true)
